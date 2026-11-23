@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CJ!
 - 👀 I’m interested in coding👩‍💻 and baking🧁!
-- 🌱 I’m currently learning advanced JS!✅
+- 🌱 I’m currently having fun with coding!✅
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
